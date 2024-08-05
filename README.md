@@ -1,5 +1,2 @@
-## Validator-test
-# Test repository for validator
-We use markdown markup language
-____
-see example - https://github.com/GnuriaN/format-README
+![logo for site](https://gladder.website/wp-content/uploads/2024/08/Gladder.png)
+[Gladder-validator](https://github.com/Gladder-validator)
